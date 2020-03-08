@@ -26,3 +26,7 @@ def smm(n):
 
 # new branch: optimizing
 
+# speeding
+# speeding
+
+
